@@ -1,4 +1,4 @@
-## This is ChristopherSamuelW's Github Pages
+## This is andrewtheodore's Github Pages
 
 You can use the [editor on GitHub](https://github.com/samuelsamosir27/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,4 +35,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Maintained by : Christopher Samuel
+Maintained by : Andrew Theodore
