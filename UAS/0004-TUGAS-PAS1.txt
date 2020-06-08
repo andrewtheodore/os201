@@ -1,13 +1,13 @@
-Script started on Mon Jun  8 23:32:32 2020
+Script started on Tue Jun  9 01:31:25 2020
 andrew.theodore@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 andrewtheodore
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-233256-8027-UAS/> 
+200609-013150-a874-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
-200608-233300-6e61-UAS/> echo -e $CEKSAYA
+200609-013153-dd9d-UAS/> echo -e $CEKSAYA
 andrewtheodore ZCZCSCRIPTSTART 200607-172437 andrewtheodore
 andrewtheodore andrewtheodore 200607-172454-b839-UAS/ 200607-172454 SEQOK SUMOK b839ce4b
 andrewtheodore andrewtheodore 200607-172501-be8b-UAS/ 200607-172501 SEQOK SUMOK be8b9b9f
@@ -15,15 +15,15 @@ andrewtheodore andrewtheodore 200607-172509-4927-UAS/ 200607-172509 SEQOK SUMOK 
 andrewtheodore andrewtheodore 200607-172516-e4aa-UAS/ 200607-172516 SEQOK SUMOK e4aa6c2c
 andrewtheodore ZCZCSCRIPTSTOP 200607-172523 SEQOK
 
-200608-233303-ff2c-UAS/> echo -e $CEKSEBELA1
+200609-013157-a971-UAS/> echo -e $CEKSEBELA1
 andrewtheodore ZCZCSCRIPTSTART 200608-225653 ariellariza
 andrewtheodore ariellariza 200608-225726-8f42-UAS/ 200608-225726 SEQOK SUMOK 8f429654
 andrewtheodore ariellariza 200608-225734-bb22-UAS/ 200608-225734 SEQOK SUMOK bb2290d9
 andrewtheodore ariellariza 200608-225739-52ff-UAS/ 200608-225739 SEQOK SUMOK 52ff9d3d
 andrewtheodore ariellariza 200608-225744-d062-UAS/ 200608-225744 SEQOK SUMOK d062343a
-andrewtheodore ZCZCSCRIPTSTOP 200608-222931 SEQOK
+andrewtheodore ZCZCSCRIPTSTOP 200608-225748 SEQOK
 
-200608-233309-9044-UAS/> echo -e $CEKSEBELA2
+200609-013202-2c61-UAS/> echo -e $CEKSEBELA2
 andrewtheodore ZCZCSCRIPTSTART 200528-222810 ariqbasyar
 andrewtheodore ariqbasyar 200528-222844-7e10-UAS/ 200528-222844 SEQOK SUMOK 7e10d0e2
 andrewtheodore ariqbasyar 200528-222850-33c0-UAS/ 200528-222850 SEQOK SUMOK 33c0da55
@@ -31,7 +31,7 @@ andrewtheodore ariqbasyar 200528-222854-e771-UAS/ 200528-222854 SEQOK SUMOK e771
 andrewtheodore ariqbasyar 200528-222900-1d69-UAS/ 200528-222900 SEQOK SUMOK 1d693efb
 andrewtheodore ZCZCSCRIPTSTOP 200528-222931 SEQOK
 
-200608-233316-a782-UAS/> exit
+200609-013205-38be-UAS/> exit
 exit
 
-Script done on Mon Jun  8 23:33:20 2020
+Script done on Tue Jun  9 01:32:06 2020
