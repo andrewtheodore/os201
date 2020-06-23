@@ -1,5 +1,5 @@
 Script started on Sun Jun  7 17:24:37 2020
-andrew.theodore@badak:~/UAS$ PS1="$ "
+]0;andrew.theodore@badak: ~/UASandrew.theodore@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 andrewtheodore
 $ echo $PSTAMP
